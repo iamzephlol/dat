@@ -34,7 +34,7 @@ Built in Rust with a full interactive TUI — think `jq` meets `less`, with a re
 ### From source
 
 ```bash
-git clone https://github.com/octolala/dat.git
+git clone https://github.com/iamzephlol/dat.git
 cd dat
 cargo build --release
 ```
@@ -49,7 +49,7 @@ cargo install dat
 
 ### Pre-built binaries
 
-Download the latest release from the [Releases page](https://github.com/octolala/dat/releases).
+Download the latest release from the [Releases page](https://github.com/iamzephlol/dat/releases).
 
 ## Quick Start
 
